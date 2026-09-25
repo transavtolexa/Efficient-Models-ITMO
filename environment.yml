@@ -1,0 +1,6 @@
+name: efficient-models-itmo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - poetry=2.5.1
