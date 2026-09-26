@@ -1,0 +1,12 @@
+{
+  "latency": {
+    "launch_latency": 2.299329075561144e-05,
+    "compute_rate": 5576751172640.488,
+    "memory_bandwidth": 72465848002.6687
+  },
+  "energy": {
+    "base_power": 3.619632867523856e-09,
+    "energy_per_flop": 3.1132067354600617e-11,
+    "energy_per_byte": 2.9800775880305335e-26
+  }
+}
